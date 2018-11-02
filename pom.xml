@@ -42,13 +42,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://192.168.56.10:8081/nexus/content/repositories/tata/</url>
+		<url>http://192.168.1.114:8081/nexus/content/repositories/100/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://192.168.56.10:8081/nexus/content/repositories/tata-snap/</url>
+		<url>http://192.168.1.114:8081/nexus/content/repositories/101/</url>
 	</snapshotRepository>
 
 </distributionManagement>
